@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varun Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **C# Programming**
 
-- 💬 Ask me about **C Programming**
+- 💬 Ask me about **C/C++ Programming**
 
 - 📫 How to reach me **varunsharma123156@gmail.com**
 
